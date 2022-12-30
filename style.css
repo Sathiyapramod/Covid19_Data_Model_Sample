@@ -1,0 +1,25 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins&display=swap');
+
+:root{
+    --primary-ff: 'Poppins', sans-serif;
+}
+*{
+    font-family: var(--primary-ff);
+}
+body{
+ background-color: #f6ece1;
+}
+.card{
+    width:15rem;
+    height:10rem;
+    background-color: #fbf9f7;
+}
+.main{
+    background-color: #05595b;
+    width:50rem;
+    height:20rem;
+}
+#btn{
+    background-color: #DC9754;
+    border: 1px solid #DC9754;
+}
