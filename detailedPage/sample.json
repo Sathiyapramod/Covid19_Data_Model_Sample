@@ -1,0 +1,99 @@
+[
+    {
+        "tested": 1376,
+        "vaccinated1": 3,
+        "vaccinated2": 13
+    },
+    {
+        "confirmed": 9
+    },
+    {
+        "confirmed": 3,
+        "recovered": 5,
+        "tested": 8936,
+        "vaccinated1": 884,
+        "vaccinated2": 10640
+    },
+    {
+        "Nicobars": {
+            "delta7": {
+                "vaccinated1": 62,
+                "vaccinated2": 811
+            },
+            "meta": {
+                "population": 36842
+            },
+            "total": {
+                "vaccinated1": 25394,
+                "vaccinated2": 20313
+            }
+        },
+        "North and Middle Andaman": {
+            "delta": {
+                "vaccinated2": 8
+            },
+            "delta7": {
+                "vaccinated1": 90,
+                "vaccinated2": 1839
+            },
+            "meta": {
+                "population": 105597
+            },
+            "total": {
+                "vaccinated1": 78945,
+                "vaccinated2": 59522
+            }
+        },
+        "South Andaman": {
+            "delta": {
+                "vaccinated1": 3,
+                "vaccinated2": 28
+            },
+            "delta7": {
+                "vaccinated1": 732,
+                "vaccinated2": 8012
+            },
+            "meta": {
+                "population": 238142
+            },
+            "total": {
+                "vaccinated1": 189662,
+                "vaccinated2": 120322
+            }
+        },
+        "Unknown": {
+            "delta21_14": {
+                "confirmed": 9
+            },
+            "delta7": {
+                "confirmed": 3,
+                "recovered": 5
+            },
+            "total": {
+                "confirmed": 7651,
+                "deceased": 129,
+                "recovered": 7518
+            }
+        }
+    },
+    {
+        "date": "2021-10-31",
+        "last_updated": "2021-11-01T11:03:10+05:30",
+        "population": 397000,
+        "tested": {
+            "date": "2021-10-31",
+            "source": "https://dhs.andaman.gov.in/NewEvents/851.pdf"
+        },
+        "vaccinated": {
+            "date": "2021-10-31"
+        }
+    },
+    {
+        "confirmed": 7651,
+        "deceased": 129,
+        "recovered": 7518,
+        "tested": 598033,
+        "vaccinated1": 294001,
+        "vaccinated2": 200157
+    }
+]
